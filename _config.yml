@@ -1,11 +1,11 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: YangHao Blog
+SEOTitle: 杨浩的博客 | YangHao Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: leaayang@hotmail.com
+description: "just test"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "http://blog.yanghao123.com"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
